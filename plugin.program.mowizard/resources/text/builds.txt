@@ -1,0 +1,18 @@
+id="plugin.program.mowizard"
+version="1.0"
+zip="https://mospace101.net"
+
+name="mobuildstandard"
+version="1.0"
+url="https://www.dropbox.com/s/v1hy6gr26m37grb/mobuildstandard.zip?dl=1"
+minor="http://"
+gui="http://"
+kodi="18.4"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="no"
+info="http://"
+description="MO's Build."
+
