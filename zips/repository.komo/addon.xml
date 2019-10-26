@@ -3,9 +3,9 @@
     <extension point="xbmc.addon.repository" name="KOMO Repository">
         
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/SoulTV/soultv.github.io/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/SoulTV/soultv.github.io/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/SoulTV/soultv.github.io/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/moJinn/repository.komo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/moJinn/repository.komo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/moJinn/repository.komo/master/zips/</datadir>
         </dir>
         
     </extension>
